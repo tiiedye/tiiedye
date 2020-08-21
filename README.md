@@ -32,5 +32,4 @@
         },
         funFact: "I began coding as a young kid thanks to Neopets! That's how I learned basic HTML and CSS."
     };
-
 ```
