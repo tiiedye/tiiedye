@@ -1,5 +1,10 @@
 ### Julia "Jace" Clements
 
+<img align="right" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+[![tiiedye's github stats](https://github-readme-stats.vercel.app/api?username=tiiedye&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on ...
   * Multiple C++ apps
   * A React-Native app with the other members of my group at Third Project Development!
