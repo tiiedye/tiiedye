@@ -25,7 +25,7 @@
             databases: ["MySQL", "MongoDB", "Firebase"],
             learning: ["C++", "C", "C#", "Typescript"]
         },
-        askMeAbout: ["web dev", "tech", "leatherworking", "cooking", "video games"],
+        hobbies: ["leatherworking", "cooking", "video games"],
         currentProjects: {
             solo: "Multiple C++ apps as I expand my knowledge",
             group: "a React-Native app with my group at Third Project Development"
