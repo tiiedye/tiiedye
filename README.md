@@ -21,7 +21,7 @@
         pronouns: "They/Them",
         technologies: {
             code: ["JavaScript", "HTML5", "CSS", "C++"],
-            tools: ["React", "Express", "Node"],
+            tools: ["React", "React-Native", "Express", "Node"],
             databases: ["MySQL", "MongoDB", "Firebase"],
             learning: ["C++", "C", "C#", "Typescript"]
         },
