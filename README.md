@@ -10,7 +10,7 @@
 
 <img align="left" height="190" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-[![tiiedye's github stats](https://github-readme-stats.vercel.app/api?username=tiiedye&show_icons=true&theme=vue)](https://github.com/tiiedye/github-readme-stats)
+[![tiiedye's github stats](https://github-readme-stats.vercel.app/api?username=tiiedye&show_icons=true&theme=bear)](https://github.com/tiiedye/github-readme-stats)
 
 
 ### A bit about me...
