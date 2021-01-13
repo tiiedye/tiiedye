@@ -23,7 +23,7 @@
             code: ["JavaScript", "HTML5", "CSS", "C++"],
             tools: ["React", "React-Native", "Express", "Node"],
             databases: ["MySQL", "MongoDB", "Firebase"],
-            learning: ["C++", "C", "C#", "Typescript"]
+            learning: ["C++", "C", "C#", "Unity"]
         },
         hobbies: ["leatherworking", "cooking", "video games"],
         currentProjects: {
