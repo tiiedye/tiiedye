@@ -20,15 +20,14 @@
     const Jace = {
         pronouns: "They/Them",
         technologies: {
-            code: ["JavaScript", "HTML5", "CSS", "C++"],
+            code: ["JavaScript", "HTML", "CSS", "C#", "C++", "PHP", "Python"],
             tools: ["React", "React-Native", "Express", "Node"],
             databases: ["MySQL", "MongoDB", "Firebase"],
-            learning: ["C++", "C", "C#", "Unity"]
         },
         hobbies: ["leatherworking", "cooking", "video games"],
         currentProjects: {
-            solo: "Multiple C++ apps as I expand my knowledge",
-            group: "a React-Native app with my group at Third Project Development"
+            solo: "Python 100 Days of Code Challenge",
+            group: "Database creation/management and multiple websites with Third Project Development"
         },
         funFact: "I began coding as a young kid thanks to Neopets! That's how I learned basic HTML and CSS."
     };
