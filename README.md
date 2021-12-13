@@ -1,4 +1,4 @@
-# Julia "Jace" Clements
+# Jace Clements
 
 <em>
  Aspiring Web Dev | Software Dev | Game Dev
